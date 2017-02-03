@@ -1,4 +1,7 @@
 #include<stdio.h>
 int main(){
-	printf("HELLO YOU'RE SO HANDSOME!");
+	int i;
+	for(i=0;i<5;i++){
+		printf("HELLO YOU'RE SO HANDSOME!\n");
+	}
 }
